@@ -6,7 +6,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.alexlopes.workshopmongo.doman.User;
+import com.alexlopes.workshopmongo.domain.User;
 import com.alexlopes.workshopmongo.dto.UserDTO;
 import com.alexlopes.workshopmongo.repository.UserRepository;
 import com.alexlopes.workshopmongo.services.exception.ObjectNotFoundException;

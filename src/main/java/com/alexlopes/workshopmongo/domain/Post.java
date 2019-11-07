@@ -1,4 +1,4 @@
-package com.alexlopes.workshopmongo.doman;
+package com.alexlopes.workshopmongo.domain;
 
 import java.io.Serializable;
 import java.util.Date;
